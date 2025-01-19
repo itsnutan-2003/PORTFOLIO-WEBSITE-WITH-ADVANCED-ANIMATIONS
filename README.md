@@ -5,7 +5,7 @@
 **DOMAIN*:Full Stack Web Development
 **BATCH DURATION*:January 15th, 2025 to April 15th, 2025
 **MENTOR NAME*:Neela Santhosh Kumar
-**output of my portfolio *:file:///C:/Users/user/Desktop/My%20portfoio/index.html
+**output of my portfolio *:![Image](https://github.com/user-attachments/assets/335ada46-95c1-4313-aa40-c11123c77a4f)
 **DISCRIPTION*:Portfolio Overview:
 
 In creating my previous portfolio, my goal was to showcase my technical skills, creativity, and the ability to design intuitive user experiences. The portfolio serves as both a personal project and a professional presentation of my capabilities as a developer, highlighting the technologies I have mastered, the projects I have completed, and my approach to solving real-world challenges.
